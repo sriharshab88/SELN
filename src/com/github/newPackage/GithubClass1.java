@@ -10,7 +10,7 @@ public static void testMethod2() {
 		
 	}
 
-public static void testMethod3() {
+public static void seleniumTestMethod3() {
 	
 }
 
